@@ -1,0 +1,19 @@
+{
+    "name": "mr1024/psr4",
+    "description": "A simple and test",
+    "authors": [
+        {
+            "name": "mr.wind",
+            "email": "zouxiuhui@vchangyi.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Psr4\\": "src/"
+        }
+    },
+    "type":"library",
+    "license":"MIT",
+    "minimum-stability":"stable"
+}
